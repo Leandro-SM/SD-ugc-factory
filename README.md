@@ -205,7 +205,7 @@ ugc generate --prompt "prompt customizado" --seed 42
 
 | Engine | Tempo de execução |
 |---|---|
-| `sd15` + RAW (default) ⭐ | **~2 min** |
+| `sd15` + RAW (padrão) ⭐ | **~2 min** |
 | `sd15` + `--polish face` | ~3 min |
 | `sd15` + `--polish full` | ~5 min |
 | `sdxl` Lightning | **~15–25 min** |
