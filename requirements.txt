@@ -1,0 +1,12 @@
+# Locked versions for reproducibility (v1.0.0-rc1)
+# For latest, use: pip install -e .
+diffusers==0.32.0
+transformers==4.46.3
+accelerate==1.2.0
+safetensors==0.4.5
+peft==0.14.0
+huggingface-hub==0.27.0
+pillow==11.0.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+rich==13.9.4
