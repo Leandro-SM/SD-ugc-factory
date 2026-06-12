@@ -46,6 +46,24 @@ ugc generate --style back-turned --light golden --persona ana
 ugc generate --style crop-legs --pose holding-bag --persona sofia
 ```
 
+<p align="center">
+  <img src="./img/01_portrait_iris.png" width="32%" />
+  <img src="./img/02_workout_lucas.png" width="32%" />
+  <img src="./img/03_beach_sofia.png" width="32%" />
+</p>
+
+<p align="center">
+  <img src="./img/04_portrait_ana.png" width="32%" />
+  <img src="./img/05_senior_helena.png" width="32%" />
+  <img src="./img/06_student_miguel.png" width="32%" />
+</p>
+
+<p align="center">
+  <img src="./img/07_hiking_carlos.png" width="32%" />
+  <img src="./img/08_kitchen_elena.png" width="32%" />
+  <img src="./img/09_business_roberto.png" width="32%" />
+</p>
+
 ---
 
 ## 🚀 Como usar
